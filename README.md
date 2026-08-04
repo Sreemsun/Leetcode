@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sreemsun/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sreemsun/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Sreemsun/Leetcode/tree/master/0118-pascals-triangle) |
+| [3731-find-missing-elements](https://github.com/Sreemsun/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sreemsun/Leetcode/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/Sreemsun/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Sreemsun/Leetcode/tree/master/0044-wildcard-matching) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Sreemsun/Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
