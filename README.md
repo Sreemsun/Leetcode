@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sreemsun/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sreemsun/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Sreemsun/Leetcode/tree/master/0118-pascals-triangle) |
+| [1590-make-sum-divisible-by-p](https://github.com/Sreemsun/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Sreemsun/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3731-find-missing-elements](https://github.com/Sreemsun/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sreemsun/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Sreemsun/Leetcode/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sreemsun/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [1590-make-sum-divisible-by-p](https://github.com/Sreemsun/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3731-find-missing-elements](https://github.com/Sreemsun/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -155,5 +157,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/Sreemsun/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Sreemsun/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
