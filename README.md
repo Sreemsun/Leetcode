@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sreemsun/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sreemsun/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Sreemsun/Leetcode/tree/master/0118-pascals-triangle) |
+| [1732-find-the-highest-altitude](https://github.com/Sreemsun/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3731-find-missing-elements](https://github.com/Sreemsun/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sreemsun/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Sreemsun/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
