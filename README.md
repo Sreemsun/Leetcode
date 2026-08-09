@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sreemsun/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Sreemsun/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Sreemsun/Leetcode/tree/master/0058-length-of-last-word) |
+| [0227-basic-calculator-ii](https://github.com/Sreemsun/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0459-repeated-substring-pattern](https://github.com/Sreemsun/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Sreemsun/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Sreemsun/Leetcode/tree/master/0796-rotate-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sreemsun/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sreemsun/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0227-basic-calculator-ii](https://github.com/Sreemsun/Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sreemsun/Leetcode/tree/master/0070-climbing-stairs) |
+| [0227-basic-calculator-ii](https://github.com/Sreemsun/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sreemsun/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
