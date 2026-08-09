@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sreemsun/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sreemsun/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Sreemsun/Leetcode/tree/master/0118-pascals-triangle) |
+| [0636-exclusive-time-of-functions](https://github.com/Sreemsun/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sreemsun/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Sreemsun/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3731-find-missing-elements](https://github.com/Sreemsun/Leetcode/tree/master/3731-find-missing-elements) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sreemsun/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sreemsun/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0227-basic-calculator-ii](https://github.com/Sreemsun/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/Sreemsun/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 ## Bracket Sequences
 |  |
 | ------- |
