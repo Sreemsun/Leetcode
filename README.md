@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sreemsun/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Sreemsun/Leetcode/tree/master/0118-pascals-triangle) |
 | [0636-exclusive-time-of-functions](https://github.com/Sreemsun/Leetcode/tree/master/0636-exclusive-time-of-functions) |
+| [1200-minimum-absolute-difference](https://github.com/Sreemsun/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sreemsun/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Sreemsun/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3731-find-missing-elements](https://github.com/Sreemsun/Leetcode/tree/master/3731-find-missing-elements) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/Sreemsun/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [3731-find-missing-elements](https://github.com/Sreemsun/Leetcode/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
