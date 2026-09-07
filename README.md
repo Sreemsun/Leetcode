@@ -153,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sreemsun/Leetcode/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/Sreemsun/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sreemsun/Leetcode/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/Sreemsun/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -175,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sreemsun/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Sreemsun/Leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Sreemsun/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
