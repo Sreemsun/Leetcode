@@ -153,11 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sreemsun/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sreemsun/Leetcode/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/Sreemsun/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sreemsun/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sreemsun/Leetcode/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/Sreemsun/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -180,9 +182,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sreemsun/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sreemsun/Leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sreemsun/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sreemsun/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
