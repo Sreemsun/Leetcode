@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Sreemsun/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sreemsun/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Sreemsun/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sreemsun/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/Sreemsun/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Sreemsun/Leetcode/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sreemsun/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sreemsun/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sreemsun/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/Sreemsun/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Sreemsun/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Sreemsun/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sreemsun/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 <!---LeetCode Topics End-->
